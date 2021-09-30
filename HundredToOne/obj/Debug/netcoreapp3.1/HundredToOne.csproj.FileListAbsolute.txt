@@ -1,0 +1,12 @@
+C:\Users\opilane\source\repos\logitpe21\MoreLoops\HundredToOne\bin\Debug\netcoreapp3.1\HundredToOne.exe
+C:\Users\opilane\source\repos\logitpe21\MoreLoops\HundredToOne\bin\Debug\netcoreapp3.1\HundredToOne.deps.json
+C:\Users\opilane\source\repos\logitpe21\MoreLoops\HundredToOne\bin\Debug\netcoreapp3.1\HundredToOne.runtimeconfig.json
+C:\Users\opilane\source\repos\logitpe21\MoreLoops\HundredToOne\bin\Debug\netcoreapp3.1\HundredToOne.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\logitpe21\MoreLoops\HundredToOne\bin\Debug\netcoreapp3.1\HundredToOne.dll
+C:\Users\opilane\source\repos\logitpe21\MoreLoops\HundredToOne\bin\Debug\netcoreapp3.1\HundredToOne.pdb
+C:\Users\opilane\source\repos\logitpe21\MoreLoops\HundredToOne\obj\Debug\netcoreapp3.1\HundredToOne.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\logitpe21\MoreLoops\HundredToOne\obj\Debug\netcoreapp3.1\HundredToOne.AssemblyInfo.cs
+C:\Users\opilane\source\repos\logitpe21\MoreLoops\HundredToOne\obj\Debug\netcoreapp3.1\HundredToOne.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\logitpe21\MoreLoops\HundredToOne\obj\Debug\netcoreapp3.1\HundredToOne.dll
+C:\Users\opilane\source\repos\logitpe21\MoreLoops\HundredToOne\obj\Debug\netcoreapp3.1\HundredToOne.pdb
+C:\Users\opilane\source\repos\logitpe21\MoreLoops\HundredToOne\obj\Debug\netcoreapp3.1\HundredToOne.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\logitpe21\MoreLoops\GuessingGameThreeTries\obj\Debug\netcoreapp3.1\GuessingGameThreeTries.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\logitpe21\MoreLoops\GuessingGameThreeTries\obj\Debug\netcoreapp3.1\GuessingGameThreeTries.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\logitpe21\MoreLoops\GuessingGameThreeTries\obj\Debug\netcoreapp3.1\GuessingGameThreeTries.AssemblyInfo.cs
+C:\Users\opilane\source\repos\logitpe21\MoreLoops\GuessingGameThreeTries\obj\Debug\netcoreapp3.1\GuessingGameThreeTries.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\logitpe21\MoreLoops\GuessingGameThreeTries\bin\Debug\netcoreapp3.1\GuessingGameThreeTries.exe
+C:\Users\opilane\source\repos\logitpe21\MoreLoops\GuessingGameThreeTries\bin\Debug\netcoreapp3.1\GuessingGameThreeTries.deps.json
+C:\Users\opilane\source\repos\logitpe21\MoreLoops\GuessingGameThreeTries\bin\Debug\netcoreapp3.1\GuessingGameThreeTries.runtimeconfig.json
+C:\Users\opilane\source\repos\logitpe21\MoreLoops\GuessingGameThreeTries\bin\Debug\netcoreapp3.1\GuessingGameThreeTries.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\logitpe21\MoreLoops\GuessingGameThreeTries\bin\Debug\netcoreapp3.1\GuessingGameThreeTries.dll
+C:\Users\opilane\source\repos\logitpe21\MoreLoops\GuessingGameThreeTries\bin\Debug\netcoreapp3.1\GuessingGameThreeTries.pdb
+C:\Users\opilane\source\repos\logitpe21\MoreLoops\GuessingGameThreeTries\obj\Debug\netcoreapp3.1\GuessingGameThreeTries.dll
+C:\Users\opilane\source\repos\logitpe21\MoreLoops\GuessingGameThreeTries\obj\Debug\netcoreapp3.1\GuessingGameThreeTries.pdb
+C:\Users\opilane\source\repos\logitpe21\MoreLoops\GuessingGameThreeTries\obj\Debug\netcoreapp3.1\GuessingGameThreeTries.genruntimeconfig.cache
